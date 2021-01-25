@@ -25,9 +25,11 @@ This is a test!
 Ph.D. in Psychology | September 2017 - present
 
 **University of Western Ontario** | London, ON, CAN
+
 M.Sc in Psychology | September 2015 - August 2017
 
 **McGill University** | Montreal, QC, CAN
+
 B.A in Psychology | September 2012 - June 2015
 
 ## Experience
