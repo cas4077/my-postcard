@@ -20,7 +20,7 @@ This is a test!
 
 ## Education
 
-*University of Western Ontario** | London, ON, CAN
+**University of Western Ontario** | London, ON, CAN
 
 Ph.D. in Psychology | September 2017 - present
 
